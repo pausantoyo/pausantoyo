@@ -13,7 +13,7 @@ I've been working on websites and apps, and I know my way around AWS and Oracle 
 - ⚡ Fun fact: I love music 
 
 
-[<img src="https://skillicons.dev/icons?i=github&theme=light" title="Github" alt="Github"/>](https://github.com/A01745312)  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/paula-santoyo-41081b17a/)  [<img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="45" height="45"/>](https://www.facebook.com/paulasophia.santoyo)  [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pau_sophi/)
+[<img src="https://skillicons.dev/icons?i=github&theme=light" title="Github" alt="Github"/>](https://github.com/A01745312)  [<img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" alt="LinkedIn"/>](https://www.linkedin.com/in/paula-santoyo-41081b17a/)  [<img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="45" height="45"/>](https://www.facebook.com/paulasophia.santoyo)  [<img src="https://skillicons.dev/icons?i=instagram" title="Instagram" alt="Instagram"/>](https://www.instagram.com/pau_sophi/)
 
 
 
@@ -21,7 +21,7 @@ I've been working on websites and apps, and I know my way around AWS and Oracle 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,aws,figma,flask,py,github,mongodb,mysql,nodejs,postman,react,vscode,tensorflow&theme=dark&perline=8" alt='javascript, typescript'/>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,aws,figma,flask,py,github,mongodb,mysql,nodejs,postman,react,vscode,tensorflow&theme=dark&perline=12" alt='javascript, typescript'/>
   </a>
 </p>
 
