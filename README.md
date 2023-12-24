@@ -26,8 +26,8 @@ I've been working on websites and apps, and I know my way around AWS and Oracle 
 </p>
 
 <p align='center'>    
-    <img align='center' src='https://github-readme-stats.vercel.app/api?username=A01745312&show_icons=true&count_private=true'/>
-    <img align='center' src='https://streak-stats.demolab.com/?user=A01745312'/> 
+    <img align='center' width=350px height=200px src='https://github-readme-stats.vercel.app/api?username=A01745312&show_icons=true&count_private=true'/>
+    <img align='center' width=350px height=200px src='https://streak-stats.demolab.com/?user=A01745312'/> 
     <br></br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a01745312&show_icons=true&locale=en&layout=donut-vertical" alt="a01745312" /> 
 </p>
