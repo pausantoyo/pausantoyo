@@ -2,7 +2,6 @@
 #### I am a student of Computer Science and Technology at Tecnológico de Monterrey CEM
 I've been working on websites and apps, and I know my way around AWS and Oracle stuff. I'm good at team projects and handling tech tasks. As a soon-to-be grad, I've got practical experience in making tech projects run smoothly. Whether it's coding or managing things in the cloud, I enjoy making tech stuff work well!
 
-**Skills:** REACT / JavaScript / Typescript / Python / Node.js 
 
 - 🌱 I’m currently studying B.S. in Computer Science and Technology at [Tecnológico de Monterrey](https://tec.mx) 
 - 💬 Ask me about anything 
