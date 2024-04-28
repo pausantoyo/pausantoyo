@@ -7,7 +7,7 @@ I've been working on websites and apps, and I know my way around AWS and Oracle 
 - 💬 Ask me about anything 
 - 📫 How to reach me: [paulas_sa@hotmail.com](mailto:tu@email.com) 
 - 🔁 Other GitHub account: [A01745312](https://github.com/A01745312)
-- 💼 Portfolio: [a01745312](https://a01745312.github.io/portafolio)
+- 💼 Portfolio: [Paula Santoyo](https://paula-santoyo.netlify.app/)
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I love music 
 
