@@ -12,7 +12,7 @@ I've been working on websites and apps, and I know my way around AWS and Oracle 
 - ⚡ Fun fact: I love music 
 
 
-[<img src="https://skillicons.dev/icons?i=github&theme=light" title="Github" alt="Github"/>](https://github.com/A01745312)  [<img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" alt="LinkedIn"/>](https://www.linkedin.com/in/paula-santoyo-41081b17a/)  [<img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="45" height="45"/>](https://www.facebook.com/paulasophia.santoyo)  [<img src="https://skillicons.dev/icons?i=instagram" title="Instagram" alt="Instagram"/>](https://www.instagram.com/pau_sophi/)
+[<img src="https://skillicons.dev/icons?i=github&theme=light" title="Github" alt="Github"/>](https://github.com/A01745312)  [<img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" alt="LinkedIn"/>](linkedin.com/in/paula-santoyo-arteaga)  [<img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="45" height="45"/>](https://www.facebook.com/paulasophia.santoyo)  [<img src="https://skillicons.dev/icons?i=instagram" title="Instagram" alt="Instagram"/>](https://www.instagram.com/pau_sophi/)
 
 
 
